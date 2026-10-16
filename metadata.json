@@ -1,0 +1,6 @@
+{
+  "name": "Similia - Homeopathic Clinic Management",
+  "description": "Production-ready mobile EMR, medicine stock inventory, billing with WhatsApp PDF receipts, and follow-up tracker for homeopathic practitioners.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
